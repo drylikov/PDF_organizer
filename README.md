@@ -124,4 +124,3 @@ Contact: denis.rylikov@protonmail.com
 
 * Acknowledgments  
 Special thanks to the Python community for providing the libraries used in this project.
-
