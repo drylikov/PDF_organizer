@@ -125,7 +125,3 @@ Contact: denis.rylikov@protonmail.com
 
 * Acknowledgments  
 Special thanks to the Python community for providing the libraries used in this project.
-
-
-## 💖 Support my Projects
-If you find my projects useful, consider supporting me by buying me a coffee or a meal. 
