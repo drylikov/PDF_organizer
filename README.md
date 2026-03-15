@@ -1,7 +1,7 @@
 * PDF Organizer
 
 **Version:** 2.4.0-RC  
-**Release Date:** March 15, 202 6
+**Release Date:** March 15, 2026
 **Author:** Denis Rylikov (denis.rylikov@protonmail.com)
 
 * Description  
@@ -124,3 +124,6 @@ Contact: denis.rylikov@protonmail.com
 
 * Acknowledgments  
 Special thanks to the Python community for providing the libraries used in this project.
+
+
+
